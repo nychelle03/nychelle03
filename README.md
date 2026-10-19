@@ -29,7 +29,7 @@
 ![Cerner](https://img.shields.io/badge/Cerner-F9D5E5?style=for-the-badge)
 ![Datavant](https://img.shields.io/badge/Datavant-E8A0BF?style=for-the-badge)
 
-**Skills I'm building**
+**Skills I'm advancing**
 
 ![SQL](https://img.shields.io/badge/SQL-F4B8D0?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-F9D5E5?style=for-the-badge)

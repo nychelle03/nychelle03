@@ -17,7 +17,7 @@
 - 🎓 Bachelor's degree in Management Information Systems
 - 🏥 Experience in healthcare information management
 - 💻 Working with Epic, Cerner, and Datavant
-- 🌷 Currently learning SQL, Python, and data analytics
+- 🌷 Currently advancing proficiency  SQL, Python, and data analytics
 - 💗 Building a portfolio of hands-on technical projects
 - ✨ Interested in healthcare technology and data-focused careers
 
